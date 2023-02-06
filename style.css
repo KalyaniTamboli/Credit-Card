@@ -1,0 +1,46 @@
+.credit-card-container{
+    background: rgb(68,22,99);
+background: linear-gradient(90deg, rgba(68,22,99,1) 0%, rgba(253,29,29,1) 70%, rgba(222,81,15,1) 100%, rgba(252,176,69,1) 100%);
+    color:whitesmoke;
+    height: 200px;
+    width: 350px;
+    margin: 0px;
+    font-size: 15px;
+    position:relative;
+    border-radius:10px;
+   
+
+}
+.png-chip{
+    position:absolute;
+    top:60px;
+    left:20px;
+    height:50px;
+    
+}
+.name-bank{
+    color:white;
+    position:absolute;
+    right:20px;
+    top:5px;
+    font-size: 20px;
+}
+.card-number{
+    position: absolute;
+    left:20px;
+    top:105px;
+    font-size: 20px;
+}
+.valid{
+    position:absolute;
+    top:140px;
+    left:150px;
+    font-size:smaller;
+}
+.name{
+    position:absolute;
+    top:175px;
+    left:20px;
+    font-size: 15px;
+    
+}
